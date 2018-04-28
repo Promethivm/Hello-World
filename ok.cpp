@@ -1,4 +1,4 @@
-     // Escape key pressed
+               // Escape key pressed
             if ((Event.Type == sf::Event::KeyPressed) && (Event.Key.Code == sf::Key::Escape))
                 App.Close();
             
